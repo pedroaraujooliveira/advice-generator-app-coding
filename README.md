@@ -1,7 +1,7 @@
 # README Frontend Mentor | Advice generator app coding challenge
 ### A project with README File
 
-This project was make based on a challenge from Frontend Mentor that i gave it a try !!!
+This project was made based on a challenge from Frontend Mentor that i gave it a try !!!
 
 [<img src="./design/advice-generator-desktop.png" alt="Screenshot Desktop">]
 
